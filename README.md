@@ -82,7 +82,10 @@ I am a passionate software engineer who bridges the gap between robust web appli
 
 ### 📊 GitHub Stats
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jbhai8058&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbhai8058&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
