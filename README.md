@@ -1,16 +1,90 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Junaid Rehman Siddiqui 👋
 
-<!--
-**jbhai8058/jbhai8058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Full-Stack Engineer & AI Architect | Building Custom AI Agents & Scalable Cloud Solutions**
+
+
+
+I am a passionate software engineer who bridges the gap between robust web applications and cutting-edge Artificial Intelligence. I specialize in architecting scalable cloud infrastructure on AWS and building intelligent, data-driven solutions using modern frameworks.
+
+
+
+### 🚀 About Me
+
+
+
+* 🔭 **Currently working on:** Architecting scalable cloud systems and developing custom AI agents.
+
+* 🌱 **Currently exploring:** Advanced LLM orchestration, RAG pipelines, and modern serverless architectures.
+
+* 💡 **What I do:** I design reliable backend systems, develop responsive frontend interfaces, and integrate intelligent AI features to solve complex business problems.
+
+* 💬 **Ask me about:** React, Node.js, Laravel, AI integrations, and AWS cloud architecture.
+
+* 📫 **How to reach me:** https://www.junaidrehman.me/
+
+* ⚡ **Fun fact:** I believe every complex problem can be solved with the right architecture and a good cup of tea/coffee!
+
+
+
+---
+
+
+
+### 💻 Tech Stack & Arsenal
+
+
+
+**Frontend Development:**
+
+* React.js / Next.js
+
+* JavaScript (ES6+) & TypeScript
+
+* Tailwind CSS / Modern UI Frameworks
+
+
+
+**Backend Development:**
+
+* Node.js & Express.js
+
+* Laravel (PHP)
+
+* RESTful APIs & Microservices
+
+
+
+**Artificial Intelligence & Data:**
+
+* Custom AI Agents & Chatbots
+
+* LLM Integration (OpenAI, Gemini, etc.)
+
+* Prompt Engineering & AI Architecture
+
+
+
+**Cloud & Infrastructure:**
+
+* Amazon Web Services (AWS)
+
+* Cloud Architecture & Scalable System Design
+
+* Database Management (SQL & NoSQL)
+
+
+
+---
+
+
+
+### 📊 GitHub Stats
+
+
+
+---
+
+*⭐️ "Building solutions that are not just functional, but intelligent and scalable."*
+
